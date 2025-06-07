@@ -59,6 +59,24 @@ Whether you're learning how to manipulate scroll behavior, building something mi
 
 This project works in all modern browsers. Some enhancements (like smooth scrolling or scroll snapping) may have minor inconsistencies in older browsers, but the core functionality holds.
 
+--- 
+--- 
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V5](https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V5)
+   ```
+
+**Open the Project:**
+
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
+--- 
+---
+
 ---
 
 ## 📌 Known Limitations
